@@ -12,7 +12,7 @@ You can also run Renovate as a CLI tool or a self-hosted application.
 
 In this tutorial, you will learn how to configure Renovate and become familiar with some of the basic features.
 
-$${\color{red}What}$$ you will learn:
+${\color{red}What}$ you will learn:
 
 1. Installation
 2. Onboarding
